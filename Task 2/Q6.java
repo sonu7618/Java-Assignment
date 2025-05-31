@@ -1,5 +1,5 @@
 import java.util.Scanner;
- public class Pallindrome {
+ public class Q6 {
      public static void CheckPallindrome(int num){
          int original_num = num;
          int reversed = 0;

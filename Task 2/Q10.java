@@ -1,5 +1,5 @@
 import java.util.Scanner;
- public class Factors {
+ public class Q10 {
      public static void printFactors(int num) {
          System.out.println("Factors of " + num + " are:");
          for (int i = 1; i <= num; i++) {

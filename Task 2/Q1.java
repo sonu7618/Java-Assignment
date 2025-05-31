@@ -1,7 +1,7 @@
 //Write a method to print all odd numbers from 1 to a given number n
 import java.util.Scanner;
 
-public class Odd {
+public class Q1 {
     public static void odd (int n) {
         for (int i = 1; i <=n; i++) {
             if (i % 2 !=0) {

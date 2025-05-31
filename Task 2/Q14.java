@@ -1,4 +1,4 @@
-public class SumSquare {
+public class Q14 {
     public static int sumOfSquares(int num){
         int sum = 0;
         while(num != 0){

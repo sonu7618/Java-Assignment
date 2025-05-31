@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
- public class Count {
+ public class Q15 {
      public static void Counter(String string){
          int length = string.length();
          System.out.println(length);

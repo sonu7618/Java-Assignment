@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class Interest {
+public class Q5 {
     public static void Calculate(int p,int t,float r){
         double  compountInterest = p * Math.pow(1 + (r/100),t);
         System.out.println(compountInterest); 

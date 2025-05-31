@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class Dateconverter {
+public class Q2 {
     public static void convertDays(int totalDays){
         int years = totalDays / 365;
         int remainingDaysAfterYears = totalDays % 365;

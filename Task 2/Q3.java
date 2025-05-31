@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Harshad {
+public class Q3 {
     public static void Harshad(int number){
         int store = 0;
         String strNum = String.valueOf(number);

@@ -1,5 +1,5 @@
 import java.util.Scanner;
- public class Kaprekar {
+ public class Q16 {
      public static void isKaprekar(int num) {
          if (num == 1) {
              System.out.println("1 is a Kaprekar number.");

@@ -1,4 +1,4 @@
-public class SwapNumbers {
+public class Q8 {
     public static void swap(int a, int b) {
         System.out.println("Before swapping: a = " + a + ", b = " + b);
         int temp = a;

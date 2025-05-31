@@ -1,5 +1,5 @@
 import java.util.Scanner;
- public class NaturalSum {
+ public class Q9{
      public static void findSum(int n) {
          int sum = n * (n + 1) / 2;
          System.out.println("Sum of first " + n + " natural numbers is: " + sum);

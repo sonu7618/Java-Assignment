@@ -1,4 +1,4 @@
-public class FibonacciSeries {
+public class Q18 {
     public static void generateFibonacci(int n) {
         int first = 0, second = 1;
         System.out.print("Fibonacci series up to " + n + " terms: ");

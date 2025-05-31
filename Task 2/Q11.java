@@ -1,5 +1,5 @@
 import java.util.Scanner;
- public class Cube{
+ public class Q11{
  
      public static void calculateCube(int num) {
          int cube = num * num * num;

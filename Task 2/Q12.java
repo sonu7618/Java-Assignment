@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
- public class Duck {
+ public class Q12 {
  
      public static void checkDuckNumber(int num) {
          String numStr = Integer.toString(num);

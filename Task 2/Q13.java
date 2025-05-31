@@ -1,4 +1,4 @@
-public class MultiplicationTables {
+public class Q13 {
  
     public static void printTables() {
         for (int i = 1; i <= 10; i++) {
